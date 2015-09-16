@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大堅固婆羅門緣起經
+#+DATE: 2015-08-30 19:27:54.952118
+#+PROPERTY: JUAN 0
